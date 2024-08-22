@@ -1,0 +1,5 @@
+flask[async]
+gunicorn[gthread]
+transformers[torch]
+pandas
+python-dotenv
